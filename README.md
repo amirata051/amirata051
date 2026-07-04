@@ -12,7 +12,7 @@ import torch
 from universe import World
 
 class Amir(torch.nn.Module):
-    """Research Intern @ OIST · PhD applicant · CS"""
+    """Research Intern @ OIST"""
 
     def __init__(self):
         super().__init__()
