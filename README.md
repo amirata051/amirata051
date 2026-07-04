@@ -8,23 +8,33 @@
 ---
 
 ```python
-from research import RL, WorldModels, EmbodiedAI, ComputationalBiology
-from tools    import PyTorch, DDP, FlashAttention, HPC
+import torch
+from universe import World
 
-def main():
-    position = "Research Intern @ OIST, Japan"
+class Amir(torch.nn.Module):
+    """Research Intern @ OIST · PhD applicant · CS"""
 
-    interests = [RL, WorldModels, EmbodiedAI, ComputationalBiology]
-    stack     = [PyTorch, DDP, FlashAttention, HPC]
+    def __init__(self):
+        super().__init__()
+        self.interests = ["RL", "World Models", "Robotics", "Embodied AI"]
+        self.optimizer = AdamW(self.parameters(), lr=3e-4)  # Karpathy's constant
+        self.epsilon   = 0.3  # still in exploration phase
 
-    while alive():
-        build(interests, stack)
-        read_papers()
-        push_to_github()
-        sleep()  # rarely
+    def forward(self, obs: Tensor) -> Action:
+        z = self.world_model(obs)  # compress reality into latent space
+        return self.policy(z)      # act
 
-if __name__ == "__main__":
-    main()
+    def loss(self) -> Tensor:
+        return (
+              curiosity(weight=1.0)
+            + depth(weight=0.8)
+            - stagnation(weight=float("inf"))
+        )
+
+    def step(self):
+        self.loss().backward()
+        self.optimizer.step()
+        self.optimizer.zero_grad()
 ```
 
 ---
