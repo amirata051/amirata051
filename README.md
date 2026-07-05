@@ -16,7 +16,7 @@ class Amir(torch.nn.Module):
 
     def __init__(self):
         super().__init__()
-        self.interests = ["RL", "World Models", "Robotics", "Embodied AI"]
+        self.interests = ["DL", "RL", "World Models", "Robotics", "Embodied AI"]
         self.optimizer = AdamW(self.parameters(), lr=3e-4)  # Karpathy's constant
         self.epsilon   = 0.3  # still in exploration phase
 
