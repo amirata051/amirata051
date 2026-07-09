@@ -1,125 +1,54 @@
 <div align="center">
 
-# Amir Ata Ghaffarian
-
-### Building intelligent systems that learn compact world representations.
-
-Research Intern @ **OIST** 🇯🇵
-
-🌐 **Website:** https://amirata051.github.io/
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirata-ghaffarian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
+![snake](https://github.com/amirata051/amirata051/raw/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake](https://github.com/amirata051/amirata051/raw/output/github-snake.svg#gh-light-mode-only)
 
 </div>
 
 ---
 
 ```python
-from torch import nn
+import torch
+from universe import World
 
-class Amir(nn.Module):
-    """
-    Researching today.
-    Building tomorrow.
-    """
+class Amir(torch.nn.Module):
+    """Research Intern @ OIST"""
 
-    current = [
-        "Representation Learning",
-        "Self-Supervised Learning",
-        "Transformers",
-        "Graph Neural Networks",
-        "Computational Biology",
-    ]
+    def __init__(self):
+        super().__init__()
+        self.interests = ["DL", "RL", "World Models", "Robotics", "Embodied AI"]
+        self.optimizer = AdamW(self.parameters(), lr=3e-4)  # Karpathy's constant
+        self.epsilon   = 0.3  # still in exploration phase
 
-    future = [
-        "World Models",
-        "Embodied AI",
-        "Robotics",
-        "General Intelligence",
-    ]
+    def forward(self, obs: Tensor) -> Action:
+        z = self.world_model(obs)  # compress reality into latent space
+        return self.policy(z)      # act
 
-    def forward(self, observation):
-        latent = self.encode(observation)
-        prediction = self.world_model(latent)
-        return self.act(prediction)
-
-    def objective(self):
+    def loss(self) -> Tensor:
         return (
-              curiosity()
-            + imagination()
-            + scalability()
-            - stagnation()
+              curiosity(weight=1.0)
+            + depth(weight=0.8)
+            - stagnation(weight=float("inf"))
         )
+
+    def step(self):
+        self.loss().backward()
+        self.optimizer.step()
+        self.optimizer.zero_grad()
 ```
-
----
-
-# About
-
-I'm a Computer Science graduate and AI researcher currently working at the **Okinawa Institute of Science and Technology (OIST)**.
-
-My current research focuses on **representation learning for genomics**, combining self-supervised learning, graph neural networks, multimodal learning, and large-scale HPC pipelines.
-
-Long term, I'm interested in building **World Models** and **Embodied AI** systems capable of learning efficient representations of the physical world.
-
----
-
-# Current Research
-
-- 🧬 Representation Learning
-- 🧠 Self-Supervised Learning (VICReg, JEPA)
-- 🤖 Transformers & Graph Neural Networks
-- 🔬 Computational Biology
-- ⚡ HPC (Slurm + Singularity)
-
----
-
-# Research Interests
-
-- World Models
-- Embodied AI
-- Reinforcement Learning
-- Robotics
-- Representation Learning
-- Foundation Models
-
----
-
-# Selected Projects
-
-### 🧠 Knowledge Graph Generator
-
-Graph construction pipeline using FalkorDB, Kafka, Redis and MinIO.
-
----
-
-### 🚀 DiffRUL
-
-Diffusion-based Remaining Useful Life estimation for aero engines.
-
----
-
-### 🔍 Search Engine
-
-Information Retrieval engine using FAISS, TF-IDF and ParsBERT.
-
----
-
-### 📄 ATS
-
-NLP-based Applicant Tracking System powered by Sentence Transformers.
 
 ---
 
 <div align="center">
 
-### Find me elsewhere
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirata-ghaffarian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
+[![OIST](https://img.shields.io/badge/OIST-003E69?style=flat&logoColor=white)](https://www.oist.jp/research/genomics-and-regulatory-systems-unit)
 
-🌐 https://amirata051.github.io/
-
-💼 https://linkedin.com/in/amirata-ghaffarian
-
-📫 amirata.ghafarian@gmail.com
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>
