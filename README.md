@@ -1,54 +1,50 @@
-<div align="center">
-
-![snake](https://github.com/amirata051/amirata051/raw/output/github-snake-dark.svg#gh-dark-mode-only)
-![snake](https://github.com/amirata051/amirata051/raw/output/github-snake.svg#gh-light-mode-only)
-
-</div>
-
----
-
-```python
-import torch
-from universe import World
-
-class Amir(torch.nn.Module):
-    """Research Intern @ OIST"""
-
-    def __init__(self):
-        super().__init__()
-        self.interests = ["DL", "RL", "World Models", "Robotics", "Embodied AI"]
-        self.optimizer = AdamW(self.parameters(), lr=3e-4)  # Karpathy's constant
-        self.epsilon   = 0.3  # still in exploration phase
-
-    def forward(self, obs: Tensor) -> Action:
-        z = self.world_model(obs)  # compress reality into latent space
-        return self.policy(z)      # act
-
-    def loss(self) -> Tensor:
-        return (
-              curiosity(weight=1.0)
-            + depth(weight=0.8)
-            - stagnation(weight=float("inf"))
-        )
-
-    def step(self):
-        self.loss().backward()
-        self.optimizer.step()
-        self.optimizer.zero_grad()
 ```
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirata-ghaffarian)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
-[![OIST](https://img.shields.io/badge/OIST-003E69?style=flat&logoColor=white)](https://www.oist.jp/research/genomics-and-regulatory-systems-unit)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</div>
+[ppppppppppp#ppp####pppppp#pppppppppppppppppdddddddddbK800000000000008KbK8DgRO0000000008888888888KKKK
+ddddddddpdppppppppppppppppppdddddddddddddddbdbbbbbbbK8880000000000008Kbb8ORDO0000088888888KK8KKKKKKb
+8888KKKKKKKKKKKKKKKKKKKKKKKKKKKK8888888888888888800000000000000000008bbbKORD08888888888KKKKKKKbbbbbb
+88888KKKKKKKKKKKKKKKKKKKKKKK88KK888888888888888880800000800888888808KbddKORD0888888888KKKbbKbbbbbbbb
+KKKKKKKKbbbbbbbbKbbbbKKKKKKKKKbbKKKKKKKKK8K8888888888888888888888888KbddbORO0888888KKKKKbbbbbbbbdddd
+KKKbKbbbKbbbbbbbbbbbbbbbbbbbbbbbbbbKKKKKKKKK888888888888888888888888KbddbODO888KKKKKKbbbbbbbbbdddddd
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbKKKKKbbKbddbKK80088K888888888bdpdb0DO8KKKbbKKbbbbdddddddddppp
+bbbbbbbddddbdddddddddddddddddddddbbbbbbEEEASShSAh3SmbdkEdK8KKKKKKKKKbd#pb0O0KKbbbbbbbddddddddddppppp
+ddddddddddddppddddppdddddddppddpdppp#mAp8KAE080pdODgDO0d#EAK8KbbKbbKdp##d8O0KK888888888K88KKKKKKKKKK
+DDDDDOODODDOOOOOODOOODDOOOOOOODDDRmSObdM@@WM@8OgODpEmAeOR8o4DO8Kbbbbdp##d8O080RWWggggRRRRDDOOOOOOODD
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@mmOMW@@@@W@MWMMMMOdD4yw#ILh08bbbbbdp##d8O880R@@@@WWWggRRRDDDDDODOO
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@@DpOW@@@MMMMMgg08#EhaE0pabOIfdRKbbbbd#mmpK08K0RWWWWgggRRRRRDDDOOOOOO
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@WbRMMMMM@Opasv]>:'...._":rieuEWDbdbdp#mmpK08K0DgggggRRDDDDDDOOOOOOOO
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MMOAuz>-...............,x3RRDKddppdbbK0KK8DggggRRDDDOOOOOO000000
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@@@MK3tv)r-..................1OWW8#dppbKKK0Kb8ORgRggRRRDDDDOOO000088
+MMMMMMMMMMMMMMMMMMMMMMMMMMM@@MMMM@MRwi](+_-.................']dWWgddppdbbK0KbKORRDRDDODOOOOOOOO00088
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@MKuzc>,...................']hDDbpdp#m#pK0Kb8ORRRRDDOOOO00000888888
+MMMMMMMMMMMMMMMMMMMMMMMMM@gDOgMMM@Mdsil===c=r"'...:[ixl])>:,.'tObhmdpmEmpK0Kb8DggRRRDDDDOOOO00888KKK
+MMMMMMMMMMMMMMMMMMMMMMMMg8pEE0MM@@WdAoy4kEd#hSy=.=A8d8#A3y1loi=hO8bb#mEmpK0Kb8DgggRRRDDDOO000080888K
+MMMMMMMMMMMMMMMMMMMMMMMM@WgRRWMMMM@wvftnaSKbEkkc.+3hpp88#pI[("+SKItEpmEEp80Kb8DggRRRDDDDDO000000088b
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM@8@MI]czwaym#3Is>.,ltae4wIn[r'-.x3:)id#mmd80Kb8ORRRRDDDDDOOO0000888bp
+MMMMMMMMMMMMMMMMMMMMMMMMMM@@@@M0iuKo[>===)][)(]'..'-,:__,......recclApmmp80KbK0DRRDDDDOO080000088Kbb
+M@@MMMMMMMMMMMMMMMMMMMMM@MMMMW@R1=kuc>_'...'+v)-..........--..._il,rpp##dOR0K80ODDDO88KKbdddddbK8Kdb
+WWWWWWWWW@@@@MMMMMMMMMM@gDRgRRR@1(tuz(r:,,_r[=-_...'-:="-,,...._'-.]D8K8D@MWDOO00OO088KKbdbbbbKK8Kdd
+ggggRRRRRRRgWMMMMMMMMM@WD00ODRgM4>lw1l(=>>=)=cfi(r]Tl':>=)_'.._r.."pWO80gMM@gRROOOO0888Kdpb0088Kbp#p
+WgggRRRRRRRRg@M@MMMM@WRODDgW@@@@Ri+Tyx]c(][]cxts1Ttz,'r"_::_,__vh30@D0K8RMM@gRRDDOO0888KbbK008Kbdppp
+RRRRRRDDDDDDRW@MMMMMWDOODg@MMM@@MWp0A1zv[[iTT1i1tTsLvvsyl.."rr:EMM@gR8bKD@MWRDDDDDD088800080088pE###
+DDDDDDDDDDDDRg@MMMMMWRDRg@MMMMMM@WWgR4Lvv[vvvLxxxl[c(r:,_:_)c(u@ggggDKbbO@MWDOOODDDO8880OO08888dhkm#
+OOODDDOOOODODDRW@MM@@@WMMMM@gD00O00OgOetfffz]c][vLfz(,..-cTyTwRWWWWgD8bb0WMWDOOOOOOO880OODDDO0KdAkAE
+80OOOO0OOODDO0ORWMMMMM@gO8bp##pdK0ODRWg#3wIuzc][()+-..'"xw3wA@WWWWggD8bKO@MWDOOOOOOO8KdppESkewnTy4e3
+d0OOOO000OOOOOORWM@OpmShhSAEEmm##pdbd#AoyShkeont1xLffTu4eyn]hMDRRRgRO8bKO@MWDOOOOOOK#3n1Tt11s1zxTy4a
+p8OOOO00OODDDOORWWpotnyahAAhewIyyIwIyouLxtweA3hEESSShk4y1xv'f0W@@gRRO8bbO@MWDO00O0Kd#Ae433ee3eIyakhh
+A#bK88K8K88KKK8DgRbSee33k333333aytLxzl]cclLstt1stnTts1fxxzr.-vIhS0@WD8bbOWMWDO0888K888b###EAEAk3Sm##
+aa4IIIyunntstuwS8O8K#m#ddp#mA41(:....-'>==(]lzzvvvzv[[[c]>......_"T4k#ppb0O8bddddK8888Kppp#mmmSkSm##
+fiz[]]]c(c(c[vioSb8DWRKE4tzc+..........r+rr+>>==+++++""rr-...........rvsepb#ASAmpb80088bdbd#mES3kSAA
+[[]]]]]][llzi1suk#dEnc_................"r::"""r"""""_,_:_'..............'cT4kA#KKbb8008Kddd##mSkkSSh
+[[]]]][lvzLfsuytv=:....................:+"::::"":::_,,:_---'................,>zIm8O00088KKbp##mEE###
+l[[]]]lvzLfTosc'.......................'',r>r"""__,-___,,_,"....................,(TEDR08888KKbdpppp#
+[[[[[lvxi1ufr..............................',,_""rrr":_:-..........................'caO0K8888Kbdbdpp
+[[llvzxisnn,.......................................'..................................cmO88888Kbbdp#
+llvzzxisTu>............................................................................_kO00008KKKbd
+zvvzxi1tni............................................................................'.>O0OODO88Kbd
+fzzLi1Tnol.............................................................................._8gRg@@@gO8b
+oxxifsttT>...............................................................................3O808ORWWWR
+31xLifffi:...............................................................................uO80888OORR
+EuxLiiiLz,...............................................................................f8K8ORRRDOD
+#afLiLLxl'......................................................................'........lSkSAEEEEmm
+Sa1xxxxxl......................................................................,'........[a4aeee3333]
+```
