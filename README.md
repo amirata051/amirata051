@@ -1,5 +1,3 @@
----
-
 ```python
 import torch
 from universe import World
