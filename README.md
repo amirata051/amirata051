@@ -30,15 +30,12 @@ class Amir(torch.nn.Module):
 
 --- 
 
-<div align="center">
-
-## 🌐 Personal Website
-
-### **https://amirata051.github.io/**
-
-Explore my projects, publications, research, blog, and more.
-
-</div>
+<p align="center">
+  <a href="https://amirata051.github.io/">Website</a> •
+  <a href="https://linkedin.com/in/amirata-ghaffarian">LinkedIn</a> •
+  <a href="mailto:amirata.ghafarian@gmail.com">Email</a> •
+  <a href="https://www.oist.jp/research/genomics-and-regulatory-systems-unit">OIST</a>
+</p>
 
 ---
 
