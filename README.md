@@ -30,16 +30,12 @@ class Amir(torch.nn.Module):
 
 --- 
 
-<p align="center">
-  <a href="https://amirata051.github.io/">Website</a> •
-  <a href="https://linkedin.com/in/amirata-ghaffarian">LinkedIn</a> •
-  <a href="mailto:amirata.ghafarian@gmail.com">Email</a> •
-  <a href="https://www.oist.jp/research/genomics-and-regulatory-systems-unit">OIST</a>
-</p>
-
----
-
 <div align="center">
+
+[![Homepage](https://img.shields.io/badge/Homepage-181717?style=flat&logo=githubpages&logoColor=white)](https://amirata051.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirata-ghaffarian)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
+[![OIST](https://img.shields.io/badge/OIST-003E69?style=flat&logoColor=white)](https://www.oist.jp/research/genomics-and-regulatory-systems-unit)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirata-ghaffarian)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
