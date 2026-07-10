@@ -31,8 +31,14 @@ class Amir(torch.nn.Module):
 --- 
 
 <h3 align="center">
-🌐 <a href="https://amirata051.github.io/">Visit My Homepage</a>
+🌐 Personal Website
 </h3>
+
+<p align="center">
+  <a href="https://amirata051.github.io/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Homepage-181717?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
