@@ -32,7 +32,7 @@ class Amir(torch.nn.Module):
 
 <p align="center">
   <a href="https://amirata051.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Homepage-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Homepage-0A66C2?style=for-the-badge" />
   </a>
 </p>
 
