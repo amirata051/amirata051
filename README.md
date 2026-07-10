@@ -30,14 +30,15 @@ class Amir(torch.nn.Module):
 
 --- 
 
-<p align="center">
-  <a href="https://amirata051.github.io/">
-    <img
-      src="https://img.shields.io/badge/🌐%20Explore%20My%20Website-111111?style=for-the-badge&logo=githubpages&logoColor=white"
-      height="40"
-    />
-  </a>
-</p>
+<div align="center">
+
+## 🌐 Personal Website
+
+### **https://amirata051.github.io/**
+
+Explore my projects, publications, research, blog, and more.
+
+</div>
 
 ---
 
