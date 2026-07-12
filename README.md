@@ -59,7 +59,7 @@ class AmirAta(nn.Module):
         )
 ```
 
----
+<!-- ---
 
 ## 🐍 Watch the Contribution Snake
 
@@ -73,7 +73,7 @@ class AmirAta(nn.Module):
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
