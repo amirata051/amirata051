@@ -16,14 +16,11 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=amirata051&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" /> -->
 
 </div>
-
 ---
-
 ```python
 from future import Research
 import torch
 import torch.nn as nn
-
 
 class AmirAta(nn.Module):
     """AI / ML Researcher"""
@@ -54,7 +51,6 @@ class AmirAta(nn.Module):
             - stagnation(weight=float("inf"))
         )
 ```
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
