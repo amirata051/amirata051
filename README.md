@@ -6,11 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Research+Intern+%40+OIST%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;Self-Supervised+Learning+%C2%B7+VICReg+%C2%B7+JEPA;World+Models+%E2%80%A2+RL+%E2%80%A2+Robotics;Turning+latent+space+into+action..." alt="Typing SVG" />
 </a>
 
-<br/>
-
-### *"I like deep neural nets."*
-
-<br/>
+<h3 align="center">
+<i>“I like deep neural nets.”</i>
+</h3>
 
 [![Homepage](https://img.shields.io/badge/Homepage-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=8B5CF6)](https://amirata051.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirata-ghaffarian)
