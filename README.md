@@ -51,7 +51,7 @@ class AmirAta(nn.Module):
 
 ---
 
-## 🧠 About Me
+<!-- ## 🧠 About Me
 
 - 🔬 **Research Intern** at the **Okinawa Institute of Science & Technology (OIST)**, in the *Genomics & Regulatory Systems Unit* — decoding genomic rearrangement patterns with **self-supervised learning** (VICReg, JEPA, Transformers) and **Graph Neural Networks**, running an end-to-end pipeline on an **HPC cluster** with Slurm & Singularity.
 - 🎓 Computer Science graduate from **Amirkabir University of Technology (Tehran Polytechnic)** — **GPA 4.0/4.0**, ranked **top 5%** in the CS cohort.
@@ -60,9 +60,9 @@ class AmirAta(nn.Module):
 - 🌱 Currently going deeper into **World Models, RL, and Embodied AI**.
 - 👨‍🏫 Long-time **Teaching Assistant** (ML, AI, Algorithms, Image Processing, OS) and **Python mentor**.
 
----
+--- -->
 
-## 🛠️ Tech Arsenal
+<!-- ## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -132,7 +132,7 @@ class AmirAta(nn.Module):
 
 </div>
 
----
+--- -->
 
 ## 📊 GitHub Analytics
 
@@ -156,7 +156,7 @@ class AmirAta(nn.Module):
 </div>
 
 ---
-
+<!-- 
 ## 🎓 Education & Highlights
 
 - 🏛️ **B.Sc. in Computer Science** — Amirkabir University of Technology (Tehran Polytechnic), 2020–2025
@@ -165,7 +165,7 @@ class AmirAta(nn.Module):
 - 🎖️ **Machine Learning Specialization** — DeepLearning.AI & Stanford
 - 🧪 **Neuromatch Deep Learning Course** · ☁️ **Cloud Practitioner** — Cloud Academy
 
----
+--- -->
 
 ## 🐍 Watch the Contribution Snake
 
@@ -183,7 +183,7 @@ class AmirAta(nn.Module):
 
 <div align="center">
 
-*“The measure of intelligence is the ability to change.”* — Albert Einstein
+*“I like deep neural nets.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
 
