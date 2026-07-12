@@ -36,7 +36,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
 [![OIST](https://img.shields.io/badge/OIST-003E69?style=for-the-badge&logoColor=white)](https://www.oist.jp)
 
-<img src="https://komarev.com/ghpvc/?username=amirata051&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=amirata051&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" /> -->
 
 </div>
 
