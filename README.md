@@ -8,7 +8,7 @@
 
 <br/>
 
-### "I like deep neural nets."
+### I like deep neural nets.
 
 <br/>
 
