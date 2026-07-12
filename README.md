@@ -134,7 +134,7 @@ class AmirAta(nn.Module):
 
 --- -->
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -155,7 +155,7 @@ class AmirAta(nn.Module):
 
 </div>
 
----
+--- -->
 <!-- 
 ## 🎓 Education & Highlights
 
