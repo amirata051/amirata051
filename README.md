@@ -8,6 +8,10 @@
 
 <br/>
 
+### *"I like deep neural nets."*
+
+<br/>
+
 [![Homepage](https://img.shields.io/badge/Homepage-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=8B5CF6)](https://amirata051.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amirata-ghaffarian)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
@@ -33,8 +37,14 @@ class AmirAta(nn.Module):
         self.role      = "Research Intern @ OIST, Japan 🇯🇵"
         self.focus     = "self-supervised learning for genomics (VICReg · JEPA · GNNs)"
         self.education = "B.Sc. Computer Science, Amirkabir — GPA 4.0/4.0"
-        self.interests = ["World Models", "RL", "Robotics",
-                          "Embodied AI", "Neuroscience", "Comp. Biology"]
+        self.interests = [
+            "World Models",
+            "RL",
+            "Robotics",
+            "Embodied AI",
+            "Neuroscience",
+            "Comp. Biology",
+        ]
         self.epsilon   = 0.3  # still in the exploration phase
 
     def forward(self, obs: Tensor) -> Action:
@@ -66,8 +76,6 @@ class AmirAta(nn.Module):
 ---
 
 <div align="center">
-
-*“I like deep neural nets.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
 
