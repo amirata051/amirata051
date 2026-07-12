@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:38BDF8&height=200&section=header&text=Amir%20Ata%20Ghaffarian&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%2F%20ML%20Researcher&descSize=18&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+like+deep+neural+nets.;Research+Intern+%40+OIST%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;Self-Supervised+Learning+%C2%B7+VICReg+%C2%B7+JEPA;World+Models+%E2%80%A2+RL+%E2%80%A2+Robotics;Turning+latent+space+into+action..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+like+deep+neural+nets.;Research+Intern+%40+OIST%2C+Japan+%F0%9F%87%AF%F0%9F%87%B5;Self-Supervised+Learning+%C2%B7+VICReg+%C2%B7+JEPA;World+Models+%E2%80%A2+RL+%E2%80%A2+Robotics;Turning+latent+space+into+action..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirata.ghafarian@gmail.com)
 [![OIST](https://img.shields.io/badge/OIST-003E69?style=for-the-badge&logoColor=white)](https://www.oist.jp)
 
-<img src="https://komarev.com/ghpvc/?username=amirata051&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=amirata051&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views" /> -->
 
 </div>
 
