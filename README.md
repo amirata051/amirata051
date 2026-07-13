@@ -32,6 +32,7 @@ class AmirAta(nn.Module):
         self.role      = "Research Intern @ OIST, Japan 🇯🇵"
         self.focus     = "self-supervised learning for genomics (VICReg · JEPA · GNNs)"
         self.education = "B.Sc. Computer Science, Amirkabir — GPA 4.0/4.0"
+        self.status    = "applying for PhD positions · starting 2027"
         self.interests = [
             "World Models",
             "RL",
