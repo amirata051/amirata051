@@ -19,7 +19,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -27,14 +27,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Refresh SVG stats
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_NAME: ${{ github.repository_owner }}
+      - name: Refresh uptime in SVGs
         run: python today.py
 
       - name: Commit and push if changed
@@ -46,5 +39,5 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "chore: refresh profile stats [skip ci]"
+          git commit -m "chore: refresh profile uptime [skip ci]"
           git push
