@@ -1,62 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1121" height="611" viewBox="0 0 1121 611" xml:space="preserve">
-<style>text{font-family:'Consolas','DejaVu Sans Mono','Liberation Mono',Menlo,monospace;white-space:pre}.a{font-size:12.0px;fill:#a3adb8}.s{font-size:15.0px;fill:#e6edf3}.key{fill:#ffa657;font-weight:600}.val{fill:#e6edf3}.dots{fill:#546069}.user{fill:#3fb950;font-weight:700}.sep{fill:#3d444d}.hdr{fill:#ff7b72;font-weight:700}.link{fill:#79c0ff}.cur{fill:#3fb950;animation:blink 1.2s step-end infinite}.title{font-size:13px;fill:#8b949e}@keyframes blink{50%{opacity:0}}</style>
-<rect x="0.5" y="0.5" width="1120" height="610" rx="14" fill="#0d1117" stroke="#30363d"/>
-<line x1="0" y1="42" x2="1121" y2="42" stroke="#30363d" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="715" viewBox="0 0 1300 715" xml:space="preserve">
+<style>text{font-family:'Consolas','DejaVu Sans Mono','Liberation Mono',Menlo,monospace;white-space:pre}.a{font-size:13.0px;fill:#a3adb8}.c{font-size:13.0px;fill:#e6edf3}.code{fill:#e6edf3}.kw{fill:#ff7b72}.str{fill:#a5d6ff}.com{fill:#8b949e;font-style:italic}.ent{fill:#d2a8ff;font-weight:600}.num{fill:#79c0ff}.user{fill:#3fb950;font-weight:700}.cur{fill:#3fb950;animation:blink 1.2s step-end infinite}.title{font-size:13px;fill:#8b949e}@keyframes blink{50%{opacity:0}}</style>
+<rect x="0.5" y="0.5" width="1299" height="714" rx="14" fill="#0d1117" stroke="#30363d"/>
+<line x1="0" y1="42" x2="1300" y2="42" stroke="#30363d" stroke-width="1"/>
 <circle cx="26" cy="21" r="6.5" fill="#ff5f56"/>
 <circle cx="48" cy="21" r="6.5" fill="#ffbd2e"/>
 <circle cx="70" cy="21" r="6.5" fill="#27c93f"/>
-<text x="560" y="25" text-anchor="middle" class="title">amirata051@github: ~</text>
-<text x="30" y="110.5" class="a">                    &amp;@&amp;&amp;@99&amp;</text>
-<text x="30" y="124.5" class="a">                  @@@@@@@@@@@@</text>
-<text x="30" y="138.5" class="a">                 &amp;@@@@@@@9B#Hh35MGh</text>
-<text x="30" y="152.5" class="a">                @@@@@BM2r+:,........;   @</text>
-<text x="30" y="166.5" class="a">              @@@@9#5r;,..............s @@</text>
-<text x="30" y="180.5" class="a">             @@@@95ri+;:,,...........,:#@@</text>
-<text x="30" y="194.5" class="a">              @@@#Xr+:................:h@@</text>
-<text x="30" y="208.5" class="a">              @@@HAXrsXXrr;,.+ASS2As+;,s&amp;</text>
-<text x="30" y="222.5" class="a">               @@#3SMB@@@@B+,G@@@@@@hASiH</text>
-<text x="30" y="236.5" class="a">               @@AiX3G @@@B+.S&amp;@@@@@#r:,3BrA</text>
-<text x="30" y="250.5" class="a">              MM&amp;2iiAA2Mh2A,.,rA552i..,.;M;i</text>
-<text x="30" y="264.5" class="a">              3+MAi;,,,,:sr,.........,..:Sr,</text>
-<text x="30" y="278.5" class="a">              M+S2r+;::;ir::...:+r;::.,,:,..</text>
-<text x="30" y="292.5" class="a">               +r3Xri++i+rM3rXGA.+ir;:,:+:.5</text>
-<text x="30" y="306.5" class="a">               Msh2rrirXA2hMGBhiiAs::;;:X</text>
-<text x="30" y="320.5" class="a">                  Mssrr2SS55S52AA52:,;++</text>
-<text x="30" y="334.5" class="a">                   hXsssirrrXAXi:..;X2X</text>
-<text x="30" y="348.5" class="a">                    9M33Xiiiir;,.,ihB#</text>
-<text x="30" y="362.5" class="a">                    Mh99GhSS2A55hHG#SX</text>
-<text x="30" y="376.5" class="a">                     rSG&amp;BG999&amp;&amp;9#3Xi,</text>
-<text x="30" y="390.5" class="a">                    iirA5S525SSS52AX;..s2</text>
-<text x="30" y="404.5" class="a">             ;.....,;+++irsrrrriiii;,......+s</text>
-<text x="30" y="418.5" class="a">      Ai:...........++;;;;+;;;;;:;;:,..........;2</text>
-<text x="30" y="432.5" class="a">  X+................+Xi+;;;;;;;:;+;;+:............,iA</text>
-<text x="30" y="446.5" class="a">:...................  +ssrri+++irrrssr.................i</text>
-<text x="30" y="460.5" class="a">....................  ..:;+issssri;.......................r</text>
-<text x="30" y="474.5" class="a">...................., ,...    ..............................</text>
-<text x="30" y="488.5" class="a">,..................., :......................................</text>
-<text x="30" y="502.5" class="a">;....................::,.....,...............................;</text>
-<text x="30" y="516.5" class="a">,:...................,::......................................</text>
-<text x="30" y="530.5" class="a">.:....................:,,..,..................................</text>
-<text x="30" y="544.5" class="a">.::...................,::...........,...................,.....</text>
-<text x="533.3" y="75.0" class="s"><tspan class="user">amirata051</tspan><tspan class="val">@</tspan><tspan class="user">github</tspan></text>
-<text x="533.3" y="96.0" class="s"><tspan class="sep">──────────────────────────</tspan></text>
-<text x="533.3" y="117.0" class="s"><tspan class="key">Name:</tspan><tspan class="dots"> ....... </tspan><tspan class="val">Amir Ata Ghaffarian</tspan></text>
-<text x="533.3" y="138.0" class="s"><tspan class="key">Uptime:</tspan><tspan id="age_dots" class="dots"> ..... </tspan><tspan id="age_data" class="val">24 years, 3 months, 1 day</tspan></text>
-<text x="533.3" y="159.0" class="s"><tspan class="key">Role:</tspan><tspan class="dots"> ....... </tspan><tspan class="val">AI / ML Researcher — Intern @ OIST</tspan></text>
-<text x="533.3" y="180.0" class="s"><tspan class="key">Location:</tspan><tspan class="dots"> ... </tspan><tspan class="val">Okinawa, Japan</tspan></text>
-<text x="533.3" y="201.0" class="s"><tspan class="key">Education:</tspan><tspan class="dots"> .. </tspan><tspan class="val">B.Sc. CS @ Amirkabir — GPA 4.0/4.0</tspan></text>
-<text x="533.3" y="222.0" class="s"><tspan class="key">Status:</tspan><tspan class="dots"> ..... </tspan><tspan class="val">Applying for PhD — starting 2027</tspan></text>
-<text x="533.3" y="264.0" class="s"><tspan class="key">Research.Focus:</tspan><tspan class="dots"> ...... </tspan><tspan class="val">Self-Supervised Learning for Genomics</tspan></text>
-<text x="533.3" y="285.0" class="s"><tspan class="key">Research.Methods:</tspan><tspan class="dots"> .... </tspan><tspan class="val">VICReg · JEPA · GNNs</tspan></text>
-<text x="533.3" y="306.0" class="s"><tspan class="key">Research.Interests:</tspan><tspan class="dots"> .. </tspan><tspan class="val">World Models, RL, Embodied AI</tspan></text>
-<text x="533.3" y="327.0" class="s"><tspan class="key">Research.Curious:</tspan><tspan class="dots"> .... </tspan><tspan class="val">Neuroscience, Comp. Biology, Robotics</tspan></text>
-<text x="533.3" y="369.0" class="s"><tspan class="key">Stack.Languages:</tspan><tspan class="dots"> .. </tspan><tspan class="val">Python, C/C++, Java, MATLAB</tspan></text>
-<text x="533.3" y="390.0" class="s"><tspan class="key">Stack.ML:</tspan><tspan class="dots"> ......... </tspan><tspan class="val">PyTorch, PyG, scikit-learn, NumPy</tspan></text>
-<text x="533.3" y="411.0" class="s"><tspan class="key">Stack.Tools:</tspan><tspan class="dots"> ...... </tspan><tspan class="val">VS Code, Jupyter, Git, Linux</tspan></text>
-<text x="533.3" y="432.0" class="s"><tspan class="key">Languages.Human:</tspan><tspan class="dots"> .. </tspan><tspan class="val">Persian, English, Japanese</tspan></text>
-<text x="533.3" y="474.0" class="s"><tspan class="hdr">Contact:</tspan></text>
-<text x="533.3" y="495.0" class="s"><tspan class="key">Email:</tspan><tspan class="dots"> ..... </tspan><tspan class="link">amirata.ghafarian@gmail.com</tspan></text>
-<text x="533.3" y="516.0" class="s"><tspan class="key">Homepage:</tspan><tspan class="dots"> .. </tspan><tspan class="link">amirata051.github.io</tspan></text>
-<text x="533.3" y="537.0" class="s"><tspan class="key">LinkedIn:</tspan><tspan class="dots"> .. </tspan><tspan class="link">amir-ata-ghaffarian</tspan></text>
-<text x="533.3" y="579.0" class="s"><tspan class="user">❯ </tspan><tspan class="val">turning latent space into action </tspan><tspan class="cur">█</tspan></text>
+<text x="650" y="25" text-anchor="middle" class="title">amirata051@github: ~</text>
+<text x="30" y="147.5" class="a">                    &amp;@&amp;&amp;@99&amp;</text>
+<text x="30" y="162.5" class="a">                  @@@@@@@@@@@@</text>
+<text x="30" y="177.5" class="a">                 &amp;@@@@@@@9B#Hh35MGh</text>
+<text x="30" y="192.5" class="a">                @@@@@BM2r+:,........;   @</text>
+<text x="30" y="207.5" class="a">              @@@@9#5r;,..............s @@</text>
+<text x="30" y="222.5" class="a">             @@@@95ri+;:,,...........,:#@@</text>
+<text x="30" y="237.5" class="a">              @@@#Xr+:................:h@@</text>
+<text x="30" y="252.5" class="a">              @@@HAXrsXXrr;,.+ASS2As+;,s&amp;</text>
+<text x="30" y="267.5" class="a">               @@#3SMB@@@@B+,G@@@@@@hASiH</text>
+<text x="30" y="282.5" class="a">               @@AiX3G @@@B+.S&amp;@@@@@#r:,3BrA</text>
+<text x="30" y="297.5" class="a">              MM&amp;2iiAA2Mh2A,.,rA552i..,.;M;i</text>
+<text x="30" y="312.5" class="a">              3+MAi;,,,,:sr,.........,..:Sr,</text>
+<text x="30" y="327.5" class="a">              M+S2r+;::;ir::...:+r;::.,,:,..</text>
+<text x="30" y="342.5" class="a">               +r3Xri++i+rM3rXGA.+ir;:,:+:.5</text>
+<text x="30" y="357.5" class="a">               Msh2rrirXA2hMGBhiiAs::;;:X</text>
+<text x="30" y="372.5" class="a">                  Mssrr2SS55S52AA52:,;++</text>
+<text x="30" y="387.5" class="a">                   hXsssirrrXAXi:..;X2X</text>
+<text x="30" y="402.5" class="a">                    9M33Xiiiir;,.,ihB#</text>
+<text x="30" y="417.5" class="a">                    Mh99GhSS2A55hHG#SX</text>
+<text x="30" y="432.5" class="a">                     rSG&amp;BG999&amp;&amp;9#3Xi,</text>
+<text x="30" y="447.5" class="a">                    iirA5S525SSS52AX;..s2</text>
+<text x="30" y="462.5" class="a">             ;.....,;+++irsrrrriiii;,......+s</text>
+<text x="30" y="477.5" class="a">      Ai:...........++;;;;+;;;;;:;;:,..........;2</text>
+<text x="30" y="492.5" class="a">  X+................+Xi+;;;;;;;:;+;;+:............,iA</text>
+<text x="30" y="507.5" class="a">:...................  +ssrri+++irrrssr.................i</text>
+<text x="30" y="522.5" class="a">....................  ..:;+issssri;.......................r</text>
+<text x="30" y="537.5" class="a">...................., ,...    ..............................</text>
+<text x="30" y="552.5" class="a">,..................., :......................................</text>
+<text x="30" y="567.5" class="a">;....................::,.....,...............................;</text>
+<text x="30" y="582.5" class="a">,:...................,::......................................</text>
+<text x="30" y="597.5" class="a">.:....................:,,..,..................................</text>
+<text x="30" y="612.5" class="a">.::...................,::...........,...................,.....</text>
+<text x="569.7" y="73.0" class="c"><tspan class="user">❯ </tspan><tspan class="code">cat </tspan><tspan class="code">me.py</tspan></text>
+<text x="569.7" y="107.0" class="c"><tspan class="kw">from</tspan><tspan class="code"> future </tspan><tspan class="kw">import</tspan><tspan class="code"> Research</tspan></text>
+<text x="569.7" y="124.0" class="c"><tspan class="kw">import</tspan><tspan class="code"> torch</tspan></text>
+<text x="569.7" y="141.0" class="c"><tspan class="kw">import</tspan><tspan class="code"> torch.nn </tspan><tspan class="kw">as</tspan><tspan class="code"> nn</tspan></text>
+<text x="569.7" y="175.0" class="c"><tspan class="kw">class</tspan><tspan class="code"> </tspan><tspan class="ent">AmirAta</tspan><tspan class="code">(nn.Module):</tspan></text>
+<text x="569.7" y="192.0" class="c"><tspan class="code">    </tspan><tspan class="str">"""AI / ML Researcher"""</tspan></text>
+<text x="569.7" y="226.0" class="c"><tspan class="code">    </tspan><tspan class="kw">def</tspan><tspan class="code"> </tspan><tspan class="ent">__init__</tspan><tspan class="code">(</tspan><tspan class="num">self</tspan><tspan class="code">):</tspan></text>
+<text x="569.7" y="243.0" class="c"><tspan class="code">        </tspan><tspan class="num">super</tspan><tspan class="code">().__init__()</tspan></text>
+<text x="569.7" y="260.0" class="c"><tspan class="code">        </tspan><tspan class="num">self</tspan><tspan class="code">.role      = </tspan><tspan class="str">"Research Intern @ OIST, Japan 🇯🇵"</tspan></text>
+<text x="569.7" y="277.0" class="c"><tspan class="code">        </tspan><tspan class="num">self</tspan><tspan class="code">.focus     = </tspan><tspan class="str">"self-supervised learning for genomics (VICReg · JEPA · GNNs)"</tspan></text>
+<text x="569.7" y="294.0" class="c"><tspan class="code">        </tspan><tspan class="num">self</tspan><tspan class="code">.education = </tspan><tspan class="str">"B.Sc. Computer Science, Amirkabir — GPA 4.0/4.0"</tspan></text>
+<text x="569.7" y="311.0" class="c"><tspan class="code">        </tspan><tspan class="num">self</tspan><tspan class="code">.status    = </tspan><tspan class="str">"applying for PhD positions · starting 2027"</tspan></text>
+<text x="569.7" y="328.0" class="c"><tspan class="code">        </tspan><tspan class="num">self</tspan><tspan class="code">.interests = [</tspan></text>
+<text x="569.7" y="345.0" class="c"><tspan class="code">            </tspan><tspan class="str">"World Models"</tspan><tspan class="code">,</tspan></text>
+<text x="569.7" y="362.0" class="c"><tspan class="code">            </tspan><tspan class="str">"RL"</tspan><tspan class="code">,</tspan></text>
+<text x="569.7" y="379.0" class="c"><tspan class="code">            </tspan><tspan class="str">"Robotics"</tspan><tspan class="code">,</tspan></text>
+<text x="569.7" y="396.0" class="c"><tspan class="code">            </tspan><tspan class="str">"Embodied AI"</tspan><tspan class="code">,</tspan></text>
+<text x="569.7" y="413.0" class="c"><tspan class="code">            </tspan><tspan class="str">"Neuroscience"</tspan><tspan class="code">,</tspan></text>
+<text x="569.7" y="430.0" class="c"><tspan class="code">            </tspan><tspan class="str">"Comp. Biology"</tspan><tspan class="code">,</tspan></text>
+<text x="569.7" y="447.0" class="c"><tspan class="code">        ]</tspan></text>
+<text x="569.7" y="464.0" class="c"><tspan class="code">        </tspan><tspan class="num">self</tspan><tspan class="code">.epsilon   = </tspan><tspan class="num">0.3</tspan><tspan class="code">  </tspan><tspan class="com"># still in the exploration phase</tspan></text>
+<text x="569.7" y="498.0" class="c"><tspan class="code">    </tspan><tspan class="kw">def</tspan><tspan class="code"> </tspan><tspan class="ent">forward</tspan><tspan class="code">(</tspan><tspan class="num">self</tspan><tspan class="code">, obs: Tensor) -&gt; Action:</tspan></text>
+<text x="569.7" y="515.0" class="c"><tspan class="code">        z = </tspan><tspan class="num">self</tspan><tspan class="code">.world_model(obs)   </tspan><tspan class="com"># compress reality into a latent space</tspan></text>
+<text x="569.7" y="532.0" class="c"><tspan class="code">        </tspan><tspan class="kw">return</tspan><tspan class="code"> </tspan><tspan class="num">self</tspan><tspan class="code">.policy(z)       </tspan><tspan class="com"># ...then act on it</tspan></text>
+<text x="569.7" y="566.0" class="c"><tspan class="code">    </tspan><tspan class="kw">def</tspan><tspan class="code"> </tspan><tspan class="ent">loss</tspan><tspan class="code">(</tspan><tspan class="num">self</tspan><tspan class="code">) -&gt; Tensor:</tspan></text>
+<text x="569.7" y="583.0" class="c"><tspan class="code">        </tspan><tspan class="kw">return</tspan><tspan class="code"> (</tspan></text>
+<text x="569.7" y="600.0" class="c"><tspan class="code">              curiosity(weight=</tspan><tspan class="num">1.0</tspan><tspan class="code">)</tspan></text>
+<text x="569.7" y="617.0" class="c"><tspan class="code">            + depth(weight=</tspan><tspan class="num">0.8</tspan><tspan class="code">)</tspan></text>
+<text x="569.7" y="634.0" class="c"><tspan class="code">            - stagnation(weight=</tspan><tspan class="num">float</tspan><tspan class="code">(</tspan><tspan class="str">"inf"</tspan><tspan class="code">))</tspan></text>
+<text x="569.7" y="651.0" class="c"><tspan class="code">        )</tspan></text>
+<text x="569.7" y="685.0" class="c"><tspan class="user">❯ </tspan><tspan class="cur">█</tspan></text>
 </svg>
